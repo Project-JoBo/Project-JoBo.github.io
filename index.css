@@ -7,10 +7,16 @@
     margin-top: 10px;
 }
 
-
+/* Default */
 h2, h3, p {
     padding: 75px 60px;
 }
+
+/* Smaller Screens */
+@media (max-width: 600px) {
+    h2, h3, p {
+        padding: 30px 15px;
+    }
 
 #hero {
     color: greenyellow;
