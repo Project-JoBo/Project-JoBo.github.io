@@ -17,6 +17,7 @@ h2, h3, p {
     h2, h3, p {
         padding: 30px 15px;
     }
+}
 
 #hero {
     color: greenyellow;
@@ -33,7 +34,7 @@ h2, h3, p {
     background-color: black;
 }
 
-* {
+body {
     background-color: rgb(255, 0, 106);
 }
 
